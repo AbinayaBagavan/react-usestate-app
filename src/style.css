@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+}
+.firstName {
+  color: red;
+}
+.LastName {
+  color: blue;
+}
